@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "V3ZhtoiK56h/OAKGkPOBGzSLSv3eLL7Cjkt3Y2VWaOMjOKC/Gu/WKeUZWEgTFHukvTzxZ/Fk8Uculj5n3edkDg==",
+  "success": true,
+  "projectFilePath": "D:\\NguyenHoangKhai_Learn\\DotNet\\CreateJsonWebToken\\CreateJsonWebToken\\CreateJsonWebToken.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ACER\\.nuget\\packages\\bcrypt.net-next\\4.0.3\\bcrypt.net-next.4.0.3.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.3\\microsoft.dotnet.ilcompiler.8.0.3.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.3\\microsoft.net.illink.tasks.8.0.3.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.3\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
